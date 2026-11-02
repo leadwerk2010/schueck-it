@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Schück;Florian;;;
+FN:Florian Schück
+ORG:Schück IT
+TITLE:Inhaber
+TEL;TYPE=CELL:+49 1520 9977045
+EMAIL;TYPE=WORK:florian@leadwerk.de
+ADR;TYPE=WORK:;;Luisenstraße 24;Eggenstein-Leopoldshafen;;76344;Deutschland
+URL:https://leadwerk2010.github.io/schueck-it/
+END:VCARD
