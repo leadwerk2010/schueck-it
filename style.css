@@ -1,6 +1,7 @@
 *{box-sizing:border-box;margin:0;padding:0}
 html{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;color:#1a1a1a;background:#f4f4f2}
 body{min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:32px 16px}
+.seite{width:100%;max-width:480px;display:flex;flex-direction:column;gap:16px}
 .karte{background:#fff;max-width:480px;width:100%;border-radius:14px;padding:40px 36px;box-shadow:0 10px 40px rgba(0,0,0,.08)}
 .karte img{width:220px;max-width:70%;height:auto;display:block}
 .claim{margin-top:22px;font-size:15px;letter-spacing:.08em;text-transform:uppercase;color:#6b6b6b}
@@ -15,3 +16,8 @@ footer a{color:#8a8a8a}
 .text{background:#fff;max-width:720px;width:100%;border-radius:14px;padding:40px 36px;line-height:1.65}
 .text h1{font-size:24px;margin-bottom:18px}.text h2{font-size:17px;margin:24px 0 6px}
 .text p{margin-bottom:10px}.text a{color:#1a1a1a}
+.leistungen h2{font-size:15px;font-weight:400;letter-spacing:.08em;text-transform:uppercase;color:#6b6b6b}
+.leistung{margin-top:22px}
+.leistung+.leistung{padding-top:22px;border-top:1px solid #ececea}
+.leistung h3{font-size:17px;font-weight:650}
+.leistung p{margin-top:6px;font-size:16px;line-height:1.6;color:#3a3a3a}
